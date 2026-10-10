@@ -2,8 +2,12 @@
 English Test
 
 # Speaking RA
+   1. Simple
+      We bring together people, resources, and education to benefit lives and neighborhoods through community gardening. From our beginnings, American Community Gardening Association 
+      has encouraged networking among members to share community gardening information, experience, and best practices. We also offer formal educational opportunities, such as local and regional workshops, webinars, publications, and online resources.
 
-
+      
+      
 
 
 # Speaking RS
